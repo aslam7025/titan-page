@@ -1,0 +1,52 @@
+ 
+.container-fluid{
+    height: 40px;
+}
+
+.logo-image{
+    width:300px;
+    height: auto;
+}
+.search-bar{
+    width: 60px;
+    height: 40px;
+    margin-top: 7px;
+} 
+.form-div{
+    width: 55%;
+}
+.navbar{
+    height: 100px;
+}
+.mic-icon{
+    position: absolute;
+    left: 62%;
+    top: 38px;
+}
+@media only screen and (max-width: 600px) {
+    #search-bar{
+       width: 100%;
+    }
+  }
+  .center-image{
+    width:100%;
+    height: auto;
+  }
+.center-picture{
+    width: 100%;
+    height: 400px;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+ .h-box{
+    position:relative;
+    top: 400px;
+ }
+.footer-div{
+    width: 100%;
+    height: 200px;
+    margin: 0;
+}
+ul{
+
+}
